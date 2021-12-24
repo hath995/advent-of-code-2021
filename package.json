@@ -12,6 +12,7 @@
     "@types/node": "^16.11.11",
     "fast-check": "^2.20.0",
     "mocha": "^9.1.3",
+    "parsinator": "^1.1.0",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
   },
