@@ -1,0 +1,2 @@
+ npx mocha --require ../node_modules/ts-node/register/transpile-only.js heap.spec.ts
+ npx ts-node problem.ts
